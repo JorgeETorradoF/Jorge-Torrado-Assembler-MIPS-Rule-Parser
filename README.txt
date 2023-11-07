@@ -1,8 +1,6 @@
-Integrantes:
+Hecho por:
 
 Jorge Torrado
-Valentina García
-Mariana Castillo
 
 
 
@@ -23,10 +21,3 @@ El presente proyecto es un rule parser en assembler MIPS, que lee 2 archivos, 1 
 FAVOR LEER ESTA LINEA ANTES DE OPERAR EL CODIGO:
 
 Antes de operar el rule parser favor cambie las rutas de acceso, configurándolas de acuerdo a la ruta donde quedaron ubicados los archivos al descargarlos a su pc
-
-
-
-Posdata: 
-
-Non Plus Ultra, esto es lo que se logró, no hay más, estuvo díficil la cuestión pero almenos se logró cumplir con todos los requerimientos excepto lo de eliminar duplicados, pues cargar datos se cumple,
-ordenar por fecha se cumple, generar un archivo con alertas se cumple, buscar un registro por IP o Username también se cumple.
